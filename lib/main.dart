@@ -9,7 +9,24 @@ void main(){
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidget {
+class MyApp extends StatelessWidget
+{
+  @override
+  Widget build(BuildContext context)
+  {
+    return MaterialApp(debugShowCheckedModeBanner: false, home: Home());
+  }
+}
+
+class Home extends StatelessWidget
+{
+  @override
+  HomeStart createState() => HomeStart();
+}
+
+@override
+class HomeStart extends State<Home>
+{
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
