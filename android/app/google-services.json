@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298381940313",
+    "project_id": "bdappmintic",
+    "storage_bucket": "bdappmintic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298381940313:android:ff84572ecc6ba26f56c348",
+        "android_client_info": {
+          "package_name": "com.ebosque.myappmovil_06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298381940313-ismo13n0icom1ph8ephv24ogf32cghas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKZvVrC17XKx9GZNztMwbseiy8d85WjrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298381940313-ismo13n0icom1ph8ephv24ogf32cghas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
